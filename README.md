@@ -17,7 +17,6 @@ This project aims to assist in early brain tumor detection by classifying MRI im
 # ⚙️ Preprocessing
 - Resizing: All images resized to 150x150x3
 - Normalization: Pixel values scaled to [0, 1]
-- Augmentation: Applied rotation, flipping, zoom, and contrast adjustment to increase robustness and reduce overfitting
 
 # 🧱 Model Architecture
 - Built using Keras Sequential API
